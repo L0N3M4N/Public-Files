@@ -1,5 +1,4 @@
-06.05 2:54 AM
-readable 
+
 function initialize() {
     var array = [
         '2486710VYugJb', 'myP', '6gjzwHt', 'while (true) {}', '3841875YWyOaG', 'setInterval', '14dcxrvr', 'test',
