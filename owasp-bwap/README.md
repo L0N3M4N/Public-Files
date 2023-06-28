@@ -18,7 +18,7 @@ When downloading the `Kali` image, make sure you select the `64-Bit` version. (S
 
 The `OWASP` download should be a `.zip` file. You will extract the contents to your desired location, preferably a dedicated VM Image folder to be sure the files aren't deleted by accident.
 
-![owasp-bwap](images/owasp-bwap_InstallPage.png)
+![OWASP-BWAP](images/OWASP-BWA_InstallPage.png)
 
 ### Step 2 - Setting Up Kali VM ###
 
