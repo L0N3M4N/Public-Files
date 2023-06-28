@@ -6,7 +6,7 @@
 
 [Kali](https://www.offensive-security.com/kali-linux-vm-vmware-virtualbox-image-download/) - VirtualBox Image
 
-[OWASP-BWA](https://sourceforge.net/projects/owaspbwa/) - VirtualBox Image
+[owasp-bwap](https://sourceforge.net/projects/owaspbwa/) - VirtualBox Image
 
 ### Step 1 - Download Virtual Machine Images ###
 
