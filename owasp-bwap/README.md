@@ -14,11 +14,11 @@ Download each of the VirtualBox images above. Each of these will create the corr
 
 When downloading the `Kali` image, make sure you select the `64-Bit` version. (See images below.)
 
-![](images/Kali_InstallPage.png)
+![owasp-bwap](images/Kali_InstallPage.png)
 
 The `OWASP` download should be a `.zip` file. You will extract the contents to your desired location, preferably a dedicated VM Image folder to be sure the files aren't deleted by accident.
 
-![OWASP-BWA](images/owasp-bwap_InstallPage.png)
+![owasp-bwap](images/owasp-bwap_InstallPage.png)
 
 ### Step 2 - Setting Up Kali VM ###
 
