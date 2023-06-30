@@ -1,6 +1,10 @@
 # Windows7 SP1 Ultimate Build 7601, [6.1.7601]
 ### Use these as a Victim machine, running in your virtuallab
-### Phase System Hacking
+### Phase 
+```txt
+System Hacking
+CEH v10, Beginner guide 
+```
 ### CVE INFORMATION 
 ```txt
 CVE Type - RCE
