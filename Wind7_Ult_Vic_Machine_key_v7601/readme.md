@@ -8,7 +8,7 @@ Service - Microsoft Server Message Block 1.0 (SMBv1)
 Vulnerable Machine - Windows Vista, 2008, 7, 2008 R2, 2012, 8.1, RT 8.1, 2012 R2, 10, and MS OFFICE 2016
 Ports - (TCP) 445,137,139
 OSI - Application Layer
-Attack - Attacker send Crafted Packet to execute arbitary code
+Attack vector - Attacker send Crafted Packet to execute arbitary code
 0day - Memory Corruption (Buffer Overflow)
 ```
 #### CVE-ID'S
