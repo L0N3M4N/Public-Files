@@ -3,7 +3,8 @@
 ### Phase System Hacking
 ### CVE INFORMATION 
 ```txt
-RCE - Microsoft Server Message Block 1.0 (SMBv1)
+CVE Type - RCE
+Service - Microsoft Server Message Block 1.0 (SMBv1)
 Vulnerable Machine - Windows Vista, 2008, 7, 2008 R2, 2012, 8.1, RT 8.1, 2012 R2, 10, and MS OFFICE 2016
 Ports - (TCP) 445,137,139
 OSI - Application Layer
@@ -24,7 +25,7 @@ https://archive.org/details/Windows7Build7601.17104x64
 ```
 
 ### Product Keys 
-#### lsmgr 
+#### Service license Manager
 ```txt
 Adding Product key
 C:\Windows\system32> slmgr /ipk "YOUR-PRODUCT-KEY-HERE"
