@@ -1,6 +1,6 @@
 # Windows7 SP1 Ultimate Build 7601, [6.1.7601]
 ### Use these as a Victim machine, running in your virtuallab
-#### CEH v10, Phase System Hacking 
+#### Phase System Hacking 
 ### CVE INFORMATION 
 ```txt
 RCE - Microsoft Server Message Block 1.0 (SMBv1)
